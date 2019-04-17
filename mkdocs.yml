@@ -15,7 +15,8 @@ extra_css:
   - css/extra.css
 
 nav:
-  - INTRODUCTION: intro/
+  - INTRODUCTION:
+    - Introduction: intro/index.md
     - CNF definition: intro/cnf-definition.md
     - Overview: intro/overview.md
     - CN-Infra: intro/cn-toc-file.md
@@ -50,5 +51,9 @@ nav:
     - FAQ: troubleshooting/faq.md
 
 markdown_extensions:
+  - extra
+  - admonition
+  - smarty
+  - codehilite
   - toc:
       permalink: true
