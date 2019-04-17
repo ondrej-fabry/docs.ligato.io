@@ -11,10 +11,8 @@ theme:
   name: readthedocs
   issue_tracker: https://github.com/ondrej-fabry/agent/issues
 
-extra_css:
-  - css/extra.css
-
 nav:
+  - HOME: index.md
   - INTRODUCTION:
     - Introduction: intro/index.md
     - CNF definition: intro/cnf-definition.md
@@ -22,6 +20,7 @@ nav:
     - CN-Infra: intro/cn-toc-file.md
     - KV datastore: intro/kv-store.md
   - USER GUIDE:
+    - User Guide: user-guide/index.,md
     - Quickstart guide: user-guide/quickstart.md
     - Learn how to: user-guide/learn-how-to.md
     - Concepts: user-guide/concepts.md
@@ -49,6 +48,9 @@ nav:
       - VPP-Agent-Ctl: tools/vpp-agent-ctl.md
   - TROUBLESHOOTING:
     - FAQ: troubleshooting/faq.md
+
+extra_css:
+  - css/extra.css
 
 markdown_extensions:
   - extra
