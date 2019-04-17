@@ -17,7 +17,7 @@ theme:
 
 nav:
   - HOME: index.md
-  - INTRODUCTION:
+  - GETTING STARTED:
     - Introduction: intro/index.md
     - CNF definition: intro/cnf-definition.md
     - Overview: intro/overview.md
