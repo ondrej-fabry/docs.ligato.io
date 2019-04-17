@@ -8,7 +8,7 @@ repo_url: https://github.com/ligato/docs.ligato.io
 use_directory_urls: true
 
 theme:
-  name: mkdocs
+  name: readthedocs
   highlightjs: true
   hljs_languages:
     - go
