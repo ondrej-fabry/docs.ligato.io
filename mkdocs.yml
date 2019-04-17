@@ -15,8 +15,8 @@ theme:
 
 nav:
   - HOME: index.md
-  - README: ../
-  - GETTING STARTED:
+  - README: ../README.md
+  - GENERAL:
     - Introduction: intro/index.md
     - CNF definition: intro/cnf-definition.md
     - Overview: intro/overview.md
