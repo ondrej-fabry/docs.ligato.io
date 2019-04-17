@@ -15,7 +15,7 @@ extra_css:
   - css/extra.css
 
 nav:
-  - INTRODUCTION: intro/index.md
+  - INTRODUCTION: intro/
     - CNF definition: intro/cnf-definition.md
     - Overview: intro/overview.md
     - CN-Infra: intro/cn-toc-file.md
