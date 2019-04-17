@@ -1,14 +1,14 @@
 site_name: Ligato Docs
-site_description: Ligato Documentation
 site_url: https://docs.ligato.io/
+site_description: Ligato project documentation.
+site_author: Ligato Team
+
 repo_url: https://github.com/ligato/docs.ligato.io
-site_author: "The Ligato Project"
-copyright: "Copyright &copy; 2017-2019"
 
 use_directory_urls: true
 
 theme:
-  name: readthedocs
+  name: mkdocs
   highlightjs: true
   hljs_languages:
     - go
@@ -61,5 +61,6 @@ markdown_extensions:
   - admonition
   - smarty
   - codehilite
+  - def_list
   - toc:
-      permalink: true
+      permalink: 
