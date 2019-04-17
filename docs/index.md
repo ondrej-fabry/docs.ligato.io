@@ -1,6 +1,12 @@
-#![logo](img/ligato-dark.png) <span >Ligato vpp-agent</span>
+<p align="center"><img src="img/ligato-dark.png" alt="ligato"></p>
+
+<h1 align="center">Ligato</h1>
 
 Welcome to the vpp-agent wiki, a collection of information about the [vpp-agent](https://ligato.io/vpp-agent).
+
+---
+
+## Releases
 
 |Project|Latest Release|Release date|
 |---|:---:|---|
@@ -8,6 +14,8 @@ Welcome to the vpp-agent wiki, a collection of information about the [vpp-agent]
 |CN-Infra|[![stable](https://img.shields.io/github/release/ligato/cn-infra.svg?label=release&logo=github)](https://github.com/ligato/cn-infra/releases/latest)|![Release date](https://img.shields.io/github/release-date/ligato/cn-infra.svg?label=)|
 
 Have a look at the [release notes](https://github.com/ligato/vpp-agent/blob/master/CHANGELOG.md) for a complete list of changes.
+
+## Images
 
 |Image|Info|
 |---|---|
