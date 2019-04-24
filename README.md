@@ -1,8 +1,5 @@
 # Ligato VPP-Agent documentation page
 
-!!! note
-    You should note that the title will be automatically capitalized.
-
 Site: [ligato.readthedocs.io](https://ligato.readthedocs.io/en/latest/) (will be moved to ligato.io soon)
 
 The documentation is build, versioned and hosted with the help of [ReadTheDoc](https://readthedocs.org/) and currently uses static site generator [MkDocs](https://www.mkdocs.org/). In the future, we plan to transfer to [Sphinx](http://www.sphinx-doc.org/en/master/).
