@@ -4,6 +4,11 @@
 
 Welcome to the vpp-agent wiki, a collection of information about the [vpp-agent](https://ligato.io/vpp-agent).
 
+
+!!! note
+    You should note that the title will be automatically capitalized.
+
+
 ---
 
 ## Releases
